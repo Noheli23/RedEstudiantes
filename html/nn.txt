@@ -1,0 +1,12 @@
+<div id="div">
+        <header><div class="img"><img src="img/foto.jpeg" alt=""></div></header>
+        <aside>ASIDE</aside>
+        <section>
+            <span class="email">noheliviva@ufps.edu.co</span>
+            <br>
+            <span class="github"><a href="https://github.com/Noheli23">GitHub</a></span>
+            <br>
+            <a class="proyectos" href="https://github.com/Noheli23">Proyectos</a>
+        </section>
+        <footer>FOOTER</footer>
+    </div>
