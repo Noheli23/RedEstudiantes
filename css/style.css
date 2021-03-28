@@ -1,22 +1,37 @@
 body{
     font-family: 'Raleway', sans-serif !important;
+	background-color: #fafafa !important;
 }
 
 nav{
-    background-color: blueviolet !important;
+    background-color: #9575cd !important;
 }
 .carousel-inner img {
     width: 100%;
     height: 100%;
   }
 
+.img{
+	width: 100%;
+    	
+}
+.info h5,p{
+	display: inline;
+}
+.info p{
+	font-size: 19px;
+}
+#glosario{
+	text-align: justify;
+}
+
 .footer{
-    background-color: blueviolet;
+    background-color: #65499c;
     color: white;
 }
 
-table, th, td{
-	border: 2px solid #1c313a ;
+table,th, td{
+	border: 2px solid #757575;
 }
 table td:first-child{
 	width: 150px;
@@ -35,6 +50,33 @@ table th{
 	color:#FFF;
 	text-align:center;
 	padding:10px 20px;
-	background-color:#1c313a;
+	background-color:#757575;
 	height:20px;
+	
 }
+
+input, text{
+	
+	padding: 20px;
+}
+
+#cc{
+	width: 60%;
+	
+}
+#con{
+	margin: auto !important;
+	display:flex !important;
+	justify-content: center;
+	width: 60%;
+
+}
+#ft{
+	margin: auto !important;
+	width: 60%;
+	
+}.proyectos{
+	visibility: hidden;
+	color: #fafafa;
+}
+
